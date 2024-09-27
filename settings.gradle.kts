@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Teoria_T2"
 include(":app")
+include(":app")
+ 

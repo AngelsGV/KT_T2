@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Teoria_T2" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.PlayJuegosAGV" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
